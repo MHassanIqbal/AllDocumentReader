@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1659ef</color>
+    <color name="colorPrimaryDark">#0f279e</color>
+    <color name="colorAccent">#000000</color>
+    <color name="row_activated">#e0e0e0</color>
+    <color name="icon_tint_selected">#fed776</color>
+    <color name="icon_tint_normal">#7a7a7a</color>
+    <color name="colorPdf">#f20000</color>
+    <color name="colorDoc">#008cfb</color>
+    <color name="colorXls">#04a900</color>
+    <color name="colorPpt">#fc8a17</color>
+    <color name="colorTxt">#6787c7</color>
+    <color name="polygonViewCircleBackground">#90e5f8ff</color>
+</resources>

@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">All Documents Reader: Pdf Ppt World 2019</string>
+    <string name="icon">icon</string>
+    <string name="term_and_conditions">Term and Conditions</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="background">Background</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="empty">Empty</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search by Name or Type</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+    <string name="controls">Controls</string>
+    <string name="expand">Expand</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="scroll_view">Scroll View</string>
+    <string name="book_view">Book View</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="loading">Loading</string>
+    <string name="rotate">Rotate</string>
+    <string name="crop">Crop</string>
+    <string name="mode_none">None</string>
+    <string name="mode_black_white"><![CDATA[Black & White]]></string>
+    <string name="mode_magic">Magic</string>
+    <string name="finish">Finish</string>
+    <string name="cant_crop">Can\\\'t crop the image, change the points</string>
+    <string name="transforming">Transforming...</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="action_info">Information</string>
+    <string name="pdf_tools">Pdf Tools</string>
+
+    <string name="file_provider_authority" translatable="false">com.all.document.reader.pdf.ppt.world.provider</string>
+
+    <string name="privacy_policy">\n
+        <b>Permissions:</b>\n\n
+        <b>*</b> Read External Storage.\n
+        <b>*</b> Read Internal Storage.\n
+        <b>*</b> Camera.\n\n
+        <b>Our Privacy Policy:</b>-\n\n
+        <b>*</b> We did not collect any unnecessary data.\n\n
+        <b>*</b> All permissions are only for user benefit.\n\n
+        <b>*</b> Read External and Internal storage permissions are used to read document files
+        including .doc, .docx, .xls, .xlsx, .ppt, .pptx, .pdf and .txt files.\n\n
+        <b>*</b> Gallery is only accessed to collect images for the purpose of forming pdf file.\n\n
+        <b>*</b> Camera is used to click image and this image is saved in only local storage.\n\n\n
+        Please accept to proceed further.\n\n
+        Thanks For Installing this Application.\n\n
+    </string>
+
+    <string name="about">It is all document reader used for to view and read pdf format file and other format files like ppt,
+        pptx, doc, docx, xls, xlsx, txt, dnp etc. \\n
+        We can search documents present in our phone. \\n
+        We can share all the documents.</string>
+
+    <!--Test Ad IDs-->
+    <!--<string name="banner">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <!--Original Ad IDs-->
+    <string name="banner">ca-app-pub-1287711503176079/9231162694</string>
+    <string name="interstitial">ca-app-pub-1287711503176079/2474182651</string>
+
+
+</resources>

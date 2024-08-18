@@ -1,0 +1,587 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:2:1-290:12
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:2:1-290:12
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:2:1-290:12
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:2:1-290:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\571ff7f506361fa0366c01ce79d6022f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\70921ed0876e5d90567599eb015b3a0f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\854bf70e36fddabf69f632135987d504\AndroidManifest.xml:2:1-15:12
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:17:1-33:12
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\FancyGifDialog-Android-1.1.aar\20005dc9ab98eca7284c588be7841a60\AndroidManifest.xml:2:1-11:12
+MERGED from [com.codemybrainsout.rating:ratingdialog:1.0.8] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\ratingdialog-1.0.8.aar\2e768a58fe2fdebcd26c26db5b58a31b\AndroidManifest.xml:2:1-11:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\774ca9c44d2f82bbf8c3b45d7968b094\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4a34ae7d4106f8e2c1d5028ba3a53d33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\05d4a99eb9e83ec8584040112ca5fb8b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4c7fa655764e7b91c5e9cd75c50c0c5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7032cf4624aefaedab5fa515ed250957\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-16.0.0.aar\fe9bdf09d7cb8796b8c40ff762765c7c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\7a09b3d8b9db264c618291a1838eaaa3\AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\a59c9abd71224ce4f0ba1f78d1bfc190\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-3.1.0-beta.1.aar\788e95bb3f2dfe6bca50fd9ba21076e5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:2.3.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-2.3.0.aar\f7abd88a70a3d9cc6c1db9fdf300eb1a\AndroidManifest.xml:2:1-11:12
+MERGED from [org.opencv:opencv-android:2.4.8] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\opencv-android-2.4.8.aar\b6573c3b13c17e8e086a63d7d80d660f\AndroidManifest.xml:1:108-4:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d4b623c22c2475a72d23d26620bc691e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\bef4e6928dddeb033ade6e64d6afb714\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\5e3badc7e4b651ebc9e72f7c254deca8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\30551e0833ea29431b269b7f0f586929\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-gass-16.0.0.aar\fcb87be3e6e17a52d3baa8409fbd4424\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9947770843c773a4ebb2fe11d8457d39\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.9.0.aar\bcc47d1ca33ab4afb978c85188dbd6e1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1a813ae96ed0dd6cb3174693cee6bb03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e5f998ea6fc2cdc1cbe00360b94322ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2807857a19d89a86b3f401027dc6dd63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ecbcf4df6626f6503f3fbf39ad9e45e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\63364f937f549b5625a558256fdba401\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a4447c1621255424ea4097f6543aaafc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b071aef2557b9d5aef98af720ec94d1a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5e24cc80a93e0b87a03776f179964263\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c7015f862102c056763c126527a97680\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a5f71ff4c47382d51ca9734a44755eba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c353541780fd29db5708132b629008f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9ff6f0ffda9f7874db58655249655578\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b3660c8808f324a0262511d96ff16171\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ed2f9d3a2d22e09ceab2d17ee6dc1bd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\534703db36642431a84be2a24c9559f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\344175aaee64b071f0c78fe5b9f72914\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1114f181837ad231587f7cbfbca820eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\44f37945bf3a3cc2486c0bebfc94adcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cf32a88a2e2d0239b824e4a69a111944\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dd72d00d7e01d9f642a6a6510ed293b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\396b1435a0466134b0d36b4d506d7af3\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\313b3e2e600c295688b05d481ffb95ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43cff884fe79859565d5c5998f803b94\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ca6d7b46418d6ec7619f65bd457e337c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f50a202c4b63fd1eb5bbfdbb16dedbea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2516b6e14857826ab51174e4cf3f2858\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3b51ebc96229c3feb1372739999ec940\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-16.0.0.aar\00b292a2fc1f20663c07b2189e5e501b\AndroidManifest.xml:17:1-24:12
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\88c5fe86b7c8cb4a5832bdb47e5adc67\AndroidManifest.xml:1:106-7:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.10.aar\a51d760b645aaceeae937a71980c018c\AndroidManifest.xml:2:1-11:12
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\f035a84da05161833b9ca5c4155d6ddb\AndroidManifest.xml:1:116-8:12
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:2:1-290:12
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:2:1-290:12
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:2:1-290:12
+	package
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:4:5-52
+		INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:2:1-290:12
+		INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:2:1-290:12
+		INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:25:5-80
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:24:5-81
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:10:5-289:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\70921ed0876e5d90567599eb015b3a0f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\70921ed0876e5d90567599eb015b3a0f\AndroidManifest.xml:22:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\854bf70e36fddabf69f632135987d504\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\854bf70e36fddabf69f632135987d504\AndroidManifest.xml:13:5-20
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:27:5-31:19
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:27:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\05d4a99eb9e83ec8584040112ca5fb8b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\05d4a99eb9e83ec8584040112ca5fb8b\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\7a09b3d8b9db264c618291a1838eaaa3\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\7a09b3d8b9db264c618291a1838eaaa3\AndroidManifest.xml:10:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\a59c9abd71224ce4f0ba1f78d1bfc190\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\a59c9abd71224ce4f0ba1f78d1bfc190\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\bef4e6928dddeb033ade6e64d6afb714\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\bef4e6928dddeb033ade6e64d6afb714\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\5e3badc7e4b651ebc9e72f7c254deca8\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\5e3badc7e4b651ebc9e72f7c254deca8\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\30551e0833ea29431b269b7f0f586929\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\30551e0833ea29431b269b7f0f586929\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-gass-16.0.0.aar\fcb87be3e6e17a52d3baa8409fbd4424\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-gass-16.0.0.aar\fcb87be3e6e17a52d3baa8409fbd4424\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9947770843c773a4ebb2fe11d8457d39\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9947770843c773a4ebb2fe11d8457d39\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\396b1435a0466134b0d36b4d506d7af3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\396b1435a0466134b0d36b4d506d7af3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43cff884fe79859565d5c5998f803b94\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43cff884fe79859565d5c5998f803b94\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-16.0.0.aar\00b292a2fc1f20663c07b2189e5e501b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-16.0.0.aar\00b292a2fc1f20663c07b2189e5e501b\AndroidManifest.xml:22:5-20
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\88c5fe86b7c8cb4a5832bdb47e5adc67\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\88c5fe86b7c8cb4a5832bdb47e5adc67\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\f035a84da05161833b9ca5c4155d6ddb\AndroidManifest.xml:5:5-6:19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\f035a84da05161833b9ca5c4155d6ddb\AndroidManifest.xml:5:5-6:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\396b1435a0466134b0d36b4d506d7af3\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:17:9-48
+	android:roundIcon
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:14:9-43
+	android:icon
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:12:9-38
+	android:allowBackup
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:16:9-40
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:21:13-66
+	android:exported
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:20:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:24:13-26:63
+	android:resource
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:26:17-60
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:25:17-67
+activity#com.all.document.reader.pdf.ppt.world.activity.SplashActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:29:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:31:13-49
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:30:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.all.document.reader.pdf.ppt.world.activity.PrivacyActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:40:9-45:20
+	android:screenOrientation
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:41:13-53
+activity#com.all.document.reader.pdf.ppt.world.activity.MainActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:47:9-57:20
+	android:screenOrientation
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:49:13-49
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:48:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.HOME
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:52:13-56:29
+category#android.intent.category.HOME
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:55:17-73
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:55:27-70
+activity#com.all.document.reader.pdf.ppt.world.activity.AllFilesActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:59:9-63:59
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:62:13-38
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:61:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:60:13-54
+activity#com.all.document.reader.pdf.ppt.world.activity.PdfFilesActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:65:9-69:59
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:68:13-38
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:67:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:69:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:66:13-54
+activity#com.all.document.reader.pdf.ppt.world.activity.DocFilesActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:71:9-75:59
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:74:13-39
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:73:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:72:13-54
+activity#com.all.document.reader.pdf.ppt.world.activity.PptFilesActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:78:9-82:59
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:81:13-46
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:80:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:82:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:79:13-54
+activity#com.all.document.reader.pdf.ppt.world.activity.XlsFilesActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:84:9-88:59
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:87:13-40
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:86:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:88:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:85:13-54
+activity#com.all.document.reader.pdf.ppt.world.activity.TxtFilesActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:90:9-94:59
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:93:13-39
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:92:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:94:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:91:13-54
+activity#com.all.document.reader.pdf.ppt.world.activity.FavouriteActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:96:9-100:59
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:99:13-38
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:98:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:100:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:97:13-55
+activity#com.all.document.reader.pdf.ppt.world.activity.ScanImageActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:102:9-106:59
+	android:screenOrientation
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:104:13-49
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:105:13-37
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:106:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:103:13-55
+activity#com.all.document.reader.pdf.ppt.world.scan.ScanActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:109:9-110:76
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:110:13-74
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:109:19-52
+activity#com.all.document.reader.pdf.ppt.world.activity.PdfToolsActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:112:9-116:59
+	android:screenOrientation
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:115:13-38
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:116:13-56
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:113:13-54
+activity#com.all.document.reader.pdf.ppt.world.activity.PdfViewerActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:118:9-146:20
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:121:13-40
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:120:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:119:13-92
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/pdf
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:124:13-133:29
+	android:scheme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:125:17-38
+	tools:ignore
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:126:17-47
+action#android.intent.action.VIEW
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:127:17-69
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:127:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:129:17-76
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:129:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:130:17-78
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:130:27-75
+data
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:132:17-60
+	android:host
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:141:21-37
+	android:scheme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:144:21-42
+	android:pathPattern
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:143:21-51
+	android:mimeType
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:132:23-57
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\.pdf+data:scheme:file
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:134:13-145:29
+activity#com.all.document.reader.pdf.ppt.world.activity.TxtViewerActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:149:9-177:20
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:152:13-41
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:151:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:153:13-44
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:150:13-92
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/text
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:155:13-164:29
+	android:scheme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:156:17-38
+	tools:ignore
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:157:17-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\.txt+data:scheme:file
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:165:13-176:29
+activity#com.all.document.reader.pdf.ppt.world.activity.PptViewerActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:180:9-215:20
+	android:screenOrientation
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:184:13-50
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:183:13-47
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:182:13-63
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:185:13-44
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:181:13-92
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/vnd.ms-powerpoint
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:187:13-196:29
+	android:scheme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:188:17-38
+	tools:ignore
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:189:17-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:host:*+data:mimeType:*/*+data:mimeType:*/*+data:pathPattern:.*\\.ppt+data:pathPattern:.*\\.pptx+data:scheme:file+data:scheme:file
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:197:13-214:29
+activity#com.all.document.reader.pdf.ppt.world.activity.XlsViewerActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:217:9-251:20
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:220:13-42
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:219:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:221:13-44
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:218:13-92
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/vnd.ms-excel
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:223:13-232:29
+	android:scheme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:224:17-38
+	tools:ignore
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:225:17-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:host:*+data:mimeType:*/*+data:mimeType:*/*+data:pathPattern:.*\\.xlsx+data:pathPattern:.*\\.xlsx+data:scheme:file+data:scheme:file
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:233:13-250:29
+activity#com.all.document.reader.pdf.ppt.world.activity.DocViewerActivity
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:253:9-287:20
+	android:label
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:256:13-41
+	android:configChanges
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:255:13-59
+	android:theme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:257:13-44
+	android:name
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:254:13-92
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/msword
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:259:13-268:29
+	android:scheme
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:260:17-38
+	tools:ignore
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:261:17-47
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:host:*+data:mimeType:*/*+data:mimeType:*/*+data:pathPattern:.*\\.doc+data:pathPattern:.*\\.docx+data:scheme:file+data:scheme:file
+ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml:269:13-286:29
+uses-sdk
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\571ff7f506361fa0366c01ce79d6022f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\571ff7f506361fa0366c01ce79d6022f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\70921ed0876e5d90567599eb015b3a0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\70921ed0876e5d90567599eb015b3a0f\AndroidManifest.xml:20:5-44
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\854bf70e36fddabf69f632135987d504\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\854bf70e36fddabf69f632135987d504\AndroidManifest.xml:8:5-11:75
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\FancyGifDialog-Android-1.1.aar\20005dc9ab98eca7284c588be7841a60\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\FancyGifDialog-Android-1.1.aar\20005dc9ab98eca7284c588be7841a60\AndroidManifest.xml:7:5-9:41
+MERGED from [com.codemybrainsout.rating:ratingdialog:1.0.8] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\ratingdialog-1.0.8.aar\2e768a58fe2fdebcd26c26db5b58a31b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.codemybrainsout.rating:ratingdialog:1.0.8] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\ratingdialog-1.0.8.aar\2e768a58fe2fdebcd26c26db5b58a31b\AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\774ca9c44d2f82bbf8c3b45d7968b094\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\774ca9c44d2f82bbf8c3b45d7968b094\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4a34ae7d4106f8e2c1d5028ba3a53d33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4a34ae7d4106f8e2c1d5028ba3a53d33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\05d4a99eb9e83ec8584040112ca5fb8b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\05d4a99eb9e83ec8584040112ca5fb8b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4c7fa655764e7b91c5e9cd75c50c0c5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\4c7fa655764e7b91c5e9cd75c50c0c5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7032cf4624aefaedab5fa515ed250957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7032cf4624aefaedab5fa515ed250957\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-16.0.0.aar\fe9bdf09d7cb8796b8c40ff762765c7c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-16.0.0.aar\fe9bdf09d7cb8796b8c40ff762765c7c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\7a09b3d8b9db264c618291a1838eaaa3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\7a09b3d8b9db264c618291a1838eaaa3\AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\a59c9abd71224ce4f0ba1f78d1bfc190\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\a59c9abd71224ce4f0ba1f78d1bfc190\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-3.1.0-beta.1.aar\788e95bb3f2dfe6bca50fd9ba21076e5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.1.0-beta.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\android-pdf-viewer-3.1.0-beta.1.aar\788e95bb3f2dfe6bca50fd9ba21076e5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:2.3.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-2.3.0.aar\f7abd88a70a3d9cc6c1db9fdf300eb1a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:2.3.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-2.3.0.aar\f7abd88a70a3d9cc6c1db9fdf300eb1a\AndroidManifest.xml:7:5-9:41
+MERGED from [org.opencv:opencv-android:2.4.8] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\opencv-android-2.4.8.aar\b6573c3b13c17e8e086a63d7d80d660f\AndroidManifest.xml:3:5-72
+MERGED from [org.opencv:opencv-android:2.4.8] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\opencv-android-2.4.8.aar\b6573c3b13c17e8e086a63d7d80d660f\AndroidManifest.xml:3:5-72
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d4b623c22c2475a72d23d26620bc691e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d4b623c22c2475a72d23d26620bc691e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\bef4e6928dddeb033ade6e64d6afb714\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\bef4e6928dddeb033ade6e64d6afb714\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\5e3badc7e4b651ebc9e72f7c254deca8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\5e3badc7e4b651ebc9e72f7c254deca8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\30551e0833ea29431b269b7f0f586929\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\30551e0833ea29431b269b7f0f586929\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-gass-16.0.0.aar\fcb87be3e6e17a52d3baa8409fbd4424\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-gass-16.0.0.aar\fcb87be3e6e17a52d3baa8409fbd4424\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9947770843c773a4ebb2fe11d8457d39\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9947770843c773a4ebb2fe11d8457d39\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.9.0.aar\bcc47d1ca33ab4afb978c85188dbd6e1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\pdfium-android-1.9.0.aar\bcc47d1ca33ab4afb978c85188dbd6e1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1a813ae96ed0dd6cb3174693cee6bb03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\1a813ae96ed0dd6cb3174693cee6bb03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e5f998ea6fc2cdc1cbe00360b94322ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e5f998ea6fc2cdc1cbe00360b94322ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2807857a19d89a86b3f401027dc6dd63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2807857a19d89a86b3f401027dc6dd63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ecbcf4df6626f6503f3fbf39ad9e45e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ecbcf4df6626f6503f3fbf39ad9e45e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\63364f937f549b5625a558256fdba401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\63364f937f549b5625a558256fdba401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a4447c1621255424ea4097f6543aaafc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a4447c1621255424ea4097f6543aaafc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b071aef2557b9d5aef98af720ec94d1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\b071aef2557b9d5aef98af720ec94d1a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5e24cc80a93e0b87a03776f179964263\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\5e24cc80a93e0b87a03776f179964263\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c7015f862102c056763c126527a97680\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c7015f862102c056763c126527a97680\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a5f71ff4c47382d51ca9734a44755eba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a5f71ff4c47382d51ca9734a44755eba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c353541780fd29db5708132b629008f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c353541780fd29db5708132b629008f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9ff6f0ffda9f7874db58655249655578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\9ff6f0ffda9f7874db58655249655578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b3660c8808f324a0262511d96ff16171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b3660c8808f324a0262511d96ff16171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ed2f9d3a2d22e09ceab2d17ee6dc1bd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ed2f9d3a2d22e09ceab2d17ee6dc1bd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\534703db36642431a84be2a24c9559f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\534703db36642431a84be2a24c9559f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\344175aaee64b071f0c78fe5b9f72914\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\344175aaee64b071f0c78fe5b9f72914\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1114f181837ad231587f7cbfbca820eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\1114f181837ad231587f7cbfbca820eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\44f37945bf3a3cc2486c0bebfc94adcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\44f37945bf3a3cc2486c0bebfc94adcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cf32a88a2e2d0239b824e4a69a111944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cf32a88a2e2d0239b824e4a69a111944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dd72d00d7e01d9f642a6a6510ed293b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\dd72d00d7e01d9f642a6a6510ed293b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\396b1435a0466134b0d36b4d506d7af3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\396b1435a0466134b0d36b4d506d7af3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\313b3e2e600c295688b05d481ffb95ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\313b3e2e600c295688b05d481ffb95ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43cff884fe79859565d5c5998f803b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\43cff884fe79859565d5c5998f803b94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ca6d7b46418d6ec7619f65bd457e337c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ca6d7b46418d6ec7619f65bd457e337c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f50a202c4b63fd1eb5bbfdbb16dedbea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f50a202c4b63fd1eb5bbfdbb16dedbea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2516b6e14857826ab51174e4cf3f2858\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2516b6e14857826ab51174e4cf3f2858\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3b51ebc96229c3feb1372739999ec940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3b51ebc96229c3feb1372739999ec940\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-16.0.0.aar\00b292a2fc1f20663c07b2189e5e501b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-16.0.0.aar\00b292a2fc1f20663c07b2189e5e501b\AndroidManifest.xml:20:5-44
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\88c5fe86b7c8cb4a5832bdb47e5adc67\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\88c5fe86b7c8cb4a5832bdb47e5adc67\AndroidManifest.xml:3:5-72
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.10.aar\a51d760b645aaceeae937a71980c018c\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.10.aar\a51d760b645aaceeae937a71980c018c\AndroidManifest.xml:7:5-9:41
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\f035a84da05161833b9ca5c4155d6ddb\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\f035a84da05161833b9ca5c4155d6ddb\AndroidManifest.xml:3:5-72
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\854bf70e36fddabf69f632135987d504\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hassan Iqbal\AndroidStudioProjects\DocumentReaderApp\DocumentReader\app\src\main\AndroidManifest.xml
+activity#com.zhihu.matisse.ui.MatisseActivity
+ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:28:9-73
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:28:19-70
+activity#com.zhihu.matisse.internal.ui.AlbumPreviewActivity
+ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:29:9-87
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:29:19-84
+activity#com.zhihu.matisse.internal.ui.SelectedPreviewActivity
+ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:30:9-90
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\33d2c059b4ae626135699034f9fdde5e\AndroidManifest.xml:30:19-87
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\bef4e6928dddeb033ade6e64d6afb714\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\bef4e6928dddeb033ade6e64d6afb714\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\bef4e6928dddeb033ade6e64d6afb714\AndroidManifest.xml:24:13-51
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\b53df311da8b20c5ec6cac66afea0be6\AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9947770843c773a4ebb2fe11d8457d39\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9947770843c773a4ebb2fe11d8457d39\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Hassan Iqbal\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\9947770843c773a4ebb2fe11d8457d39\AndroidManifest.xml:24:13-58

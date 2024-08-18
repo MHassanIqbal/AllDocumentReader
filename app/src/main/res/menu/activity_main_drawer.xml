@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_fav"
+        android:icon="@drawable/star"
+        android:title="Favourite" />
+
+    <item
+        android:id="@+id/nav_open"
+        android:icon="@drawable/folder1"
+        android:title="Open" />
+
+
+    <item android:title="Create Pdf">
+        <menu>
+            <item
+                android:id="@+id/nav_img_to_pdf"
+                android:icon="@drawable/img"
+                android:title="Images to Pdf" />
+
+            <item
+                android:id="@+id/nav_txt_to_pdf"
+                android:icon="@drawable/txt_icon"
+                android:title="Text to Pdf" />
+
+            <item
+                android:id="@+id/nav_scan"
+                android:icon="@drawable/scan"
+                android:title="Scan" />
+        </menu>
+    </item>
+
+    <item android:title="Tools">
+        <menu>
+            <item
+                android:id="@+id/nav_split"
+                android:icon="@drawable/split"
+                android:title="Split Pdf" />
+
+            <item
+                android:id="@+id/nav_merge"
+                android:icon="@drawable/merge"
+                android:title="Merge Pdf" />
+
+            <item
+                android:id="@+id/nav_compress"
+                android:icon="@drawable/compress"
+                android:title="Compress" />
+        </menu>
+    </item>
+
+    <item android:title="Application">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/rate"
+                android:title="Rate" />
+
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/privacy"
+                android:title="Privacy Policy" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about"
+                android:title="About" />
+
+        </menu>
+    </item>
+</menu>

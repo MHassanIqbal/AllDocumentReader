@@ -1,0 +1,13 @@
+#Wed Jan 30 16:43:37 PKT 2019
+path.3=classes4.dex
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\Hassan Iqbal\\AndroidStudioProjects\\DocumentReaderApp\\DocumentReader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\44
+base.2=C\:\\Users\\Hassan Iqbal\\AndroidStudioProjects\\DocumentReaderApp\\DocumentReader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\44
+base.1=C\:\\Users\\Hassan Iqbal\\AndroidStudioProjects\\DocumentReaderApp\\DocumentReader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\44
+base.0=C\:\\Users\\Hassan Iqbal\\AndroidStudioProjects\\DocumentReaderApp\\DocumentReader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\44

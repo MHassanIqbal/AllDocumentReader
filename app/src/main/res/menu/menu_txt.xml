@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.all.document.reader.pdf.ppt.world.activity.TxtViewerActivity">
+
+    <item
+        android:id="@+id/action_rendering_text"
+        android:title="A"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_expand"
+        android:icon="@drawable/expand"
+        android:orderInCategory="100"
+        android:title="@string/expand"
+        app:showAsAction="always" />
+</menu>
